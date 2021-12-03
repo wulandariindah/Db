@@ -18,6 +18,6 @@
         "description":"NPelajaran Ke 4"}, 
         {id:5, "title": "Alam Dan Buah-buahan",
         "jml":"24", "image":"https://via.placeholder.com/400x200/9370DB/000000",
-        "description":"Pelajaran Ke 5"},
+        "description":"Pelajaran Ke 5"}
   ]
 }
