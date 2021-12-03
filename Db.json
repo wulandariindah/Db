@@ -1,7 +1,4 @@
-{
-  "title": "Adhithi's Blog",
-  "description": "Fetch remote data from Adhithi's blog",
-  "articles": [
+[
     {"id":"1","title" :"Anggota Badan","image":"https://img.icons8.com/clouds/100/000000/groups.png", 
      "jml":"60","description":"Pelajaran Ke 1"},
     {"id":"2", "title":"Anggota keluarga",
@@ -15,4 +12,3 @@
      "jml":"24", "image":"https://via.placeholder.com/400x200/9370DB/000000",
      "description":"Pelajaran Ke 5"}
   ]
-}
